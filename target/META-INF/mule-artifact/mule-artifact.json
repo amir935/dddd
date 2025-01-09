@@ -1,0 +1,26 @@
+{
+  "configs": [
+    "mule-auto1.xml"
+  ],
+  "secureProperties": [],
+  "supportedJavaVersions": [],
+  "redeploymentEnabled": true,
+  "name": "930dd45f-b91b-4fe9-9790-40176932f84d:mule-auto1:1.0.3",
+  "minMuleVersion": "4.8.0",
+  "requiredProduct": "MULE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "dev.yaml",
+        "log4j2.xml",
+        "mule-auto1.xml"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
